@@ -1,4 +1,5 @@
 # chatroom-in-c
+A chatroom program written in the C language, to run on UNIX systems
 
 Tested on ubuntu 20.04
 
